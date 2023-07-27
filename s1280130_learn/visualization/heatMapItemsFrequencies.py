@@ -38,4 +38,5 @@ class heatMapItemsFrequencies():
                         zoom = 3,
                         mapbox_style = 'open-street-map')
         fig.show()
-  
+if __name__==__main__:
+  x=heatMapItemsFrequencies(dic)
