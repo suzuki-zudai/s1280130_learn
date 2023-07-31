@@ -12,8 +12,8 @@ pip install plotly
 
 # Usage
 way1
-pip install s1280130_learn
-import s1280130_learn.visualization.heatMapItemsFrequencies.
+pip install s1280130_learn<\b>
+import s1280130_learn.visualization.heatMapItemsFrequencies as
 
 way2
 git clone https://github.com/s1280130_learn/~
