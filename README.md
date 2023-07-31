@@ -11,6 +11,11 @@ pip install pandas
 pip install plotly
 
 # Usage
+way1
+pip install s1280130_learn
+import s1280130_learn.visualization.heatMapItemsFrequencies.
+
+way2
 git clone https://github.com/s1280130_learn/~
 cd statistics
 database=python frequenciesOfItems.py <inputFile> <sep="\t">
